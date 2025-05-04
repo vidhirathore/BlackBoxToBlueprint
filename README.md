@@ -63,7 +63,7 @@ The implemented pipeline consists of the following automated steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url> # Replace with your repository URL
+    git clone https://github.com/vidhirathore/BlackBoxToBlueprint.git
     cd BlackBoxToBlueprint
     ```
 
